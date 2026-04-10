@@ -1,4 +1,4 @@
-# pdfjs-viewer-element
+# pdfjs-viewer
 
 Standalone, isolated, drop-in [PDF.js default viewer](https://mozilla.github.io/pdf.js/web/viewer.html).
 
